@@ -1,1 +1,1 @@
-# Example of
+# Example of README
